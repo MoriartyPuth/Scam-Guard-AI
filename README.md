@@ -79,7 +79,7 @@ The framework operates as a continuous pipeline:
 3. **Topological Analysis:** Flagged transactions are projected onto a Graph to detect multi-hop routing or circular laundering.
 4. **Actionable Alerting:** High-risk clusters are visualized in the UI and archived by the Audit Engine.
 
-### 🗺️ System Topology (Mermaid)
+### 🗺️ System Topology 
 ```mermaid
 graph LR
     subgraph Data_Source
